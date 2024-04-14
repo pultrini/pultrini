@@ -11,8 +11,8 @@ Hello my name is Davi, i am a student of medical physics in USP (Universidade de
 
 
 ## Coding Skills
-|Languages||
-| ------------- | ------------- |
+|Languages|
+| ------------- |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  | 
 
 |Frameworks||
