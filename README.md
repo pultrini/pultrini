@@ -11,12 +11,10 @@ Hello my name is Davi, i am a student of medical physics in USP (Universidade de
 
 
 ## Coding Skills
-|Languages|
-| ------------- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  | 
+| Languages |||
+|-----------|--|--|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript) | ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c++) |
 
-| ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)  | 
-| ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)  | 
 
 
 |Frameworks||
