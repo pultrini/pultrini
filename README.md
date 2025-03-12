@@ -15,6 +15,10 @@ Hello my name is Davi, i am a student of medical physics in USP (Universidade de
 | ------------- |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  | 
 
+| ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)  | 
+| ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)  | 
+
+
 |Frameworks||
 | ------------- | ------------- |
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  |  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
