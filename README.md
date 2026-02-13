@@ -1,4 +1,6 @@
 # Davi Pultrini
+
+<img src="https://raw.githubusercontent.com/pultrini/galaxy-profile/assets/generated/galaxy-header.svg" width="400">
 ## About me 
 Hello my name is Davi, i am a student of medical physics in USP (Universidade de São Paulo), in the graduation i learn a programming and ended up falling in love in this area. So i studying Python and Machine Learning (Convolutional Neural Networks) for two years. At my IC (undergraduate scientific research), focusing on sex and age classification, trough panoramic radiography. Currently i am studying a complexity statistical about my model, to explain a IA.
 ## Connect with me
@@ -8,6 +10,7 @@ Hello my name is Davi, i am a student of medical physics in USP (Universidade de
 -
 
 
+<img src="https://raw.githubusercontent.com/pultrini/galaxy-profile/assets/generated/tech-stack.svg" width="400">
 
 
 ## Coding Skills
