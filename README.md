@@ -15,6 +15,8 @@ Hello my name is Davi, i am a student of medical physics in USP (Universidade de
 <div align="center">
   <img src="https://raw.githubusercontent.com/pultrini/galaxy-profile/main/assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
+
+
 ## Coding Skills
 | Languages |||
 |-----------|--|--|
