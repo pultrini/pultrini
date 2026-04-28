@@ -15,10 +15,24 @@ I am a Medical Physics student at USP (Universidade de São Paulo). During my un
 **XAI**: I am researching statistical complexity to improve Explainable AI (XAI), making model decisions more transparent and interpretable.
 
 ## 🛠️ Tech Stack & Skills
-Python, Golang, JavaScript & Data Modeling, Sckit-Learn, Pandas, Pytorch, TensorFlow.
-FastAPI, Django, Gin, Chi & PostegreSQL, MongoDB.
-Linux, Mac, Windows and Cloud (AWS and Google Cloude).
+**Languages**:
+  - Python, Golang, JavaScript
+
+**Skils**:
+  - Data Modeling, Database Connecting, Problem solving, Statistical Studing.
+
+**Frameworks**:
+  - Sckit-Learn, Pandas, Pytorch, TensorFlow, FastAPI, Django, Gin, Chi
+
+**Databases**:
+  - PostegreSQL, MongoDB.
+
+**Operational Systems and Cloud**:
+  - Linux, Mac, Windows and Cloud (AWS and Google Cloude).
 ## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pultrini/galaxy-profile/main/assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
 
 ## 📌 Featured Project
 ...
